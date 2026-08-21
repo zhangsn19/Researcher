@@ -5,3 +5,7 @@ The files are organized in the following manner:
 - codebook.md: the file containing the final codebook for this paper.
 
 - interview_script.md: the file containing the interview script for this paper.
+
+- questionnaire.md: the pre-screening questionnaire used in our paper.
+
+- recruitment.md: the recruitment poster for our interviews.
